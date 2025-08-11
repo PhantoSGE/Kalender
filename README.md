@@ -1,4 +1,4 @@
-Link zur Hessenliga 2025/2026: https://raw.githubusercontent.com/PhantoSGE/Kalender/refs/heads/main/termine2526_v3.ics
+Link zur Hessenliga 2025/2026 Dartmoor 2: https://raw.githubusercontent.com/PhantoSGE/Kalender/refs/heads/main/termine2526_v3.ics
 
 In Google Kalender abonnieren:
 Google Kalender öffnen.
