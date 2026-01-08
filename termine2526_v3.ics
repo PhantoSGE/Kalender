@@ -250,7 +250,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-UID:64bb144c-179f-45db-9372-0f5fc60ce636@excel2ics
+UID:64bb144c-179f-45db-9372-0f5fc60ce636-2@excel2ics
 
 DTSTAMP:20260106T103444
 
@@ -258,7 +258,7 @@ DTSTART;TZID=Europe/Berlin:20260115T200000
 
 DTEND;TZID=Europe/Berlin:20260115T230000
 
-SUMMARY:Hessenliga:  Dartmoor 2 - Unicorn
+SUMMARY:Pokal:  Dartmoor 2 - Unicorn
 
 LOCATION:Rheinstraße 47a\, 64283 Darmstadt
 
@@ -430,6 +430,7 @@ END:VEVENT
 
 
 END:VCALENDAR
+
 
 
 
