@@ -322,7 +322,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-UID:bc1cf888-352f-4a0c-9b1b-ee4ad422bc35@excel2ics
+UID:bc1cf888-352f-4a0c-8d2b-ee4ad422bc35@excel2ics
 
 DTSTAMP:20260208T221444
 
@@ -330,7 +330,7 @@ DTSTART;TZID=Europe/Berlin:202600219T180000
 
 DTEND;TZID=Europe/Berlin:20260219T210000
 
-SUMMARY:Hessenliga:  Dartmoor - Münzenberg
+SUMMARY:Hessenliga:  Pokal: Dartmoor - Münzenberg
 
 LOCATION:Rheinstraße 47a\, 64283 Darmstadt
 
@@ -448,6 +448,7 @@ END:VEVENT
 
 
 END:VCALENDAR
+
 
 
 
