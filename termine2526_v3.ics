@@ -330,7 +330,7 @@ DTSTART;TZID=Europe/Berlin:202600219T180000
 
 DTEND;TZID=Europe/Berlin:20260219T210000
 
-SUMMARY:Hessenliga:  Dartmoor 2 - Münzenberg
+SUMMARY:Hessenliga:  Dartmoor - Münzenberg
 
 LOCATION:Rheinstraße 47a\, 64283 Darmstadt
 
@@ -448,6 +448,7 @@ END:VEVENT
 
 
 END:VCALENDAR
+
 
 
 
