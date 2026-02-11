@@ -322,7 +322,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-UID:bc1cf888-352f-4a0c-8d2b-ee4ad333bc35@excel2ics
+UID:bc1cf888-356f-4a0c-8d2b-ee4ad333bc35@excel2ics
 
 DTSTAMP:20260208T221444
 
@@ -330,7 +330,7 @@ DTSTART;TZID=Europe/Berlin:20260219T200000
 
 DTEND;TZID=Europe/Berlin:20260219T230000
 
-SUMMARY:Hessenliga:  Pokal: Dartmoor - Münzenberg
+SUMMARY:Pokal: Dartmoor - Münzenberg
 
 LOCATION:Rheinstraße 47a\, 64283 Darmstadt
 
@@ -358,7 +358,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-UID:bc1cf888-352f-4a0c-9b1b-ee4ad494ac35@excel2ics
+UID:bc1cf888-352f-4c2d-9b1b-ee4ad494ac35@excel2ics
 
 DTSTAMP:20260108T113444
 
@@ -368,7 +368,7 @@ DTEND;TZID=Europe/Berlin:20260314T210000
 
 SUMMARY:Hessenliga:  Dartmoor 2 - Husaren Darter Sontra e.V.
 
-LOCATION:Oberseener Weg 20, 35321 Laubach
+LOCATION:Rheinstraße 47a\, 64283 Darmstadt
 
 DESCRIPTION:Hessenliga HDV Spieltag 17
 
@@ -394,7 +394,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 
-UID:dea8dc7f-5d8e-42c7-a1b4-43aada498523@excel2ics
+UID:dea8dc7f-5d8e-42c7-a2d5-43aada498523@excel2ics
 
 DTSTAMP:20260108T113444
 
@@ -404,7 +404,7 @@ DTEND;TZID=Europe/Berlin:20260314T180000
 
 SUMMARY:Hessenliga:  Seenbachdarter 1 - Dartmoor 2
 
-LOCATION:Oberseener Weg 20\, 35321 Laubach
+LOCATION:Rheinstraße 47a\, 64283 Darmstadt
 
 DESCRIPTION:Hessenliga HDV Spieltag 19
 
@@ -448,6 +448,7 @@ END:VEVENT
 
 
 END:VCALENDAR
+
 
 
 
